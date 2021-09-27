@@ -1,16 +1,19 @@
-# Flutter Shopping Cart with GetX, Stripe and Firebase
+# Flutter Shopping with GetX and Firebase
 
-A new Flutter project.
+This is my personal project called EjaX. This app is based my exploration on Firebase and GetX.
 
-## Getting Started
+Feature : User can login, sign-in, and logout via Firebase feature, also the shopping stuff is added from firebase storage. The shopping stuff can be added into shopping cart too, and then user can decrease or increase the amount of quantity and see the total payment.
 
-This project is a starting point for a Flutter application.
+Build with :
+- Firebase Auth
+- Firebase Storage
+- Firebase Cloud Firestore
+- Flutter Spinkit
+- Modal Bottom Sheet
+- GetX
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/87839081/134846192-d0b6e665-33cf-4bf2-b74d-939dc6972020.mp4
+
+
